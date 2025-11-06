@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# C/C++ build
+build/
+*.o
+*.out
+*.exe
+*.obj
+*.pdb
+*.dSYM/
